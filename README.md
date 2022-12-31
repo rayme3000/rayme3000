@@ -2,14 +2,16 @@
 
 <h2>💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/rayme3000/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/rayme3000/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/rayme3000/-ticket-lifecycle)
+- <b>AWS Amazon Web Services</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/rayme3000/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rayme3000/azure-network-protocols)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/rayme3000/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rayme3000/azure-network-protocols)
-  
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/rayme3000/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/rayme3000/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/rayme3000/-ticket-lifecycle)  
   
  - <b>Web Development</b>
     - [Creating a personal site with HTML and CSS styling](https://github.com/joshmadakorcc/configure-ad)
