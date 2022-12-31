@@ -12,10 +12,10 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/rayme3000/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/rayme3000/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/rayme3000/-ticket-lifecycle)  
+ 
   
  - <b>Web Development</b>
-    - [Creating a personal site with HTML and CSS styling](https://github.com/joshmadakorcc/configure-ad)
+    - [Personal Site with HTML and CSS Styling](https://github.com/joshmadakorcc/configure-ad)
 
 <h2>🖁 Connect with me:</h2>
 
