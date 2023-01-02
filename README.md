@@ -3,6 +3,10 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>AWS Amazon Web Services</b>
+
+https://user-images.githubusercontent.com/59034949/210255789-8a8ccc8e-2014-41c5-be5b-88edd7c0c0e1.mp4
+
+
   - [Building VMs and Observing Via RDP Protocol](https://github.com/rayme3000/configure-ad)
   - [Lightsail Setup with Domain Registration](https://github.com/rayme3000/azure-network-protocols)
   - [Inventory Web Scraper App (Cloud watch event, AWS Lambda, Amazon SNS)](https://github.com/rayme3000/azure-network-protocols)
