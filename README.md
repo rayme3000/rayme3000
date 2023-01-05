@@ -2,8 +2,8 @@
 
 <h2>💻 Information Technology Projects:</h2>
 
-
 - <b>Microsoft Azure</b>
+  - [Virtual Machine Implementation](https://github.com/rayme3000/azure-vm-demo)
   - [Configuring Active Directory within Azure VMs](https://github.com/rayme3000/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rayme3000/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
