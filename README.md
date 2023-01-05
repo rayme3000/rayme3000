@@ -3,7 +3,7 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Virtual Machine Implementation](https://github.com/rayme3000/azure-vm-demo)
+  - [Virtual Machine Implementation (Video Demo)](https://github.com/rayme3000/azure-vm-demo)
   - [Configuring Active Directory within Azure VMs](https://github.com/rayme3000/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rayme3000/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -11,7 +11,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/rayme3000/post-install-config)
 
 - <b>AWS Amazon Web Services</b>
-  - [Implementing AWS S3 File Storage](https://github.com/rayme3000/azure-vm-demo)
+  - [Implementing AWS S3 File Storage (Video Demo)](https://github.com/rayme3000/azure-vm-demo)
  
   
  - <b>Web Development</b>
