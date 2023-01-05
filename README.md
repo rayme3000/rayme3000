@@ -2,16 +2,16 @@
 
 <h2>💻 Information Technology Projects:</h2>
 
-- <b>AWS Amazon Web Services</b>
-  - [Building VMs and Observing Via RDP Protocol](https://github.com/rayme3000/configure-ad)
-  - [Lightsail Setup with Domain Registration](https://github.com/rayme3000/azure-network-protocols)
-  - [Inventory Web Scraper App (Cloud watch event, AWS Lambda, Amazon SNS)](https://github.com/rayme3000/azure-network-protocols)
+
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/rayme3000/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rayme3000/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/rayme3000/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/rayme3000/post-install-config)
+
+- <b>AWS Amazon Web Services</b>
+  - [Implementing AWS S3 File Storage](https://github.com/rayme3000/azure-vm-demo)
  
   
  - <b>Web Development</b>
