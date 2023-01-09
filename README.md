@@ -16,6 +16,9 @@
   
  - <b>Web Development</b>
     - [Personal Site with HTML and CSS Styling](https://github.com/joshmadakorcc/configure-ad)
+   
+  - <b>Design</b>
+    - [Graphic Design Portfolio (Adobe Suite)](https://indd.adobe.com/view/f45d07a7-608d-4608-8d8c-0acd5e806b5f)
 
 <h2>🖁 Connect with me:</h2>
 
