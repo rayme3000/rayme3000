@@ -27,6 +27,6 @@
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-[linkedin]: https://linkedin.com/in/in/raymond-brown-b5403b1b
+[linkedin]: https://linkedin.com/in/in/raymond-brown-b5403b1b/
 [instagram]: https://www.instagram.com/raybrown3000/
 [twitter]: https://twitter.com/Rayme3000Brown
