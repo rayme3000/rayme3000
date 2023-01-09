@@ -13,12 +13,12 @@
 - <b>AWS Amazon Web Services</b>
   - [Implementing AWS S3 File Storage (Video Demo)](azure-vm-demo)
  
-  
- - <b>Web Development</b>
-    - [Personal Site with HTML and CSS Styling](https://github.com/joshmadakorcc/configure-ad)
-   
-  - <b>Design</b>
+ - <b>Design</b>
     - [Graphic Design Portfolio (Adobe Creative Cloud)](https://indd.adobe.com/view/f45d07a7-608d-4608-8d8c-0acd5e806b5f)
+
+ 
+   
+ 
 
 <h2>🖁 Connect with me:</h2>
 
