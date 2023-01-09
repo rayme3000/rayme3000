@@ -11,7 +11,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/rayme3000/post-install-config)
 
 - <b>AWS Amazon Web Services</b>
-  - [Implementing AWS S3 File Storage (Video Demo)](https://github.com/rayme3000/azure-vm-demo)
+  - [Implementing AWS S3 File Storage (Video Demo)](azure-vm-demo)
  
   
  - <b>Web Development</b>
