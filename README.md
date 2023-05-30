@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raymond, an <a href="[https://www.linkedin.com/in/raymond-brown-b5403b1b/"> Cloud & IT Professional </a></h1>
+<h1>Hi, I'm Raymond, a <a href="[https://www.linkedin.com/in/raymond-brown-b5403b1b/]"> Cloud & IT Professional </a></h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
