@@ -7,7 +7,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/rayme3000/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rayme3000/azure-network-protocols)
     
- - <b>Microsoft Azure</b>
+ - <b>System Information Script (Powershell)</b>
   - (https://github.com/rayme3000/azure-vm-demo](https://github.com/rayme3000/psssysinfo)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
